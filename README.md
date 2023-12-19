@@ -5,4 +5,5 @@ I'm a former technical solutions engineer who stumbled upon his love for web dev
 
 
 Linkedin: https://www.linkedin.com/in/joshua-ho-5790/
+
 Website: https://joshh5790.github.io/
