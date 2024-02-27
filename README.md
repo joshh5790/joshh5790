@@ -9,7 +9,7 @@ I'm a former technical solutions engineer who stumbled upon his love for web dev
 <a href="https://www.linkedin.com/in/joshua-ho-5790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoshuaHo" height="30" width="40" /></a>
 </p>
 
-https://wakatime.com/badge/user/018d8a53-2505-43b3-97ae-70c6cafd0ed3.svg
+![](https://wakatime.com/badge/user/018d8a53-2505-43b3-97ae-70c6cafd0ed3.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
